@@ -36,7 +36,7 @@
 // Enter your WiFi credentials
 // ===========================
 const char* ssid = "massmore_2.4G";
-const char* password = "zxc12345";
+const char* password = "xxxxx";
 
 void startCameraServer();
 void setupLedFlash(int pin);
